@@ -1,3 +1,4 @@
+pip install --upgrade pip
 streamlit==0.56.0
 tensorflow==2.10.0
 transformers==3.0.2
