@@ -1,4 +1,5 @@
 streamlit==0.56.0
 tensorflow==2.10.0
 transformers==3.0.2
-tokenizers
+numpy
+tokenizers == 0.6.0
